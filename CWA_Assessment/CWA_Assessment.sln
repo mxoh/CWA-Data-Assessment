@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CWA_Assessment", "CWA_Assessment.csproj", "{12D5D158-5015-42E6-8DEA-5C6E15A06552}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12D5D158-5015-42E6-8DEA-5C6E15A06552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D5D158-5015-42E6-8DEA-5C6E15A06552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D5D158-5015-42E6-8DEA-5C6E15A06552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D5D158-5015-42E6-8DEA-5C6E15A06552}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0433D7D9-642B-42FD-832B-EB34601B3D34}
+	EndGlobalSection
+EndGlobal

@@ -1,3 +1,4 @@
+C:\Users\mdladla\Source\Repos\CWA-Data-Assessment\CWA_Assessment\obj\Debug\CWA_Assessment.csproj.AssemblyReference.cache
 C:\Users\mdladla\Source\Repos\CWA-Data-Assessment\CWA_Assessment\obj\Debug\CWA_Assessment.Form1.resources
 C:\Users\mdladla\Source\Repos\CWA-Data-Assessment\CWA_Assessment\obj\Debug\CWA_Assessment.csproj.GenerateResource.cache
 C:\Users\mdladla\Source\Repos\CWA-Data-Assessment\CWA_Assessment\bin\Debug\CWA_Assessment.exe.config

@@ -1,3 +1,4 @@
+C:\Users\mdladla\Source\Repos\CWA-Data-Assessment\CWA_Assessment\obj\Debug\CWA_Assessment.csproj.AssemblyReference.cache
 C:\Users\mdladla\Source\Repos\CWA-Data-Assessment\CWA_Assessment\obj\Debug\CWA_Assessment.Form1.resources
 C:\Users\mdladla\Source\Repos\CWA-Data-Assessment\CWA_Assessment\obj\Debug\CWA_Assessment.csproj.GenerateResource.cache
 C:\Users\mdladla\Source\Repos\CWA-Data-Assessment\CWA_Assessment\bin\Debug\CWA_Assessment.exe.config
@@ -9,7 +10,6 @@ C:\Users\mdladla\Source\Repos\CWA-Data-Assessment\CWA_Assessment\obj\Debug\CWA_A
 C:\Users\mdladla\Source\Repos\CWA-Data-Assessment\CWA_Assessment\obj\Debug\CWA_Assessment.csproj.CopyComplete
 C:\Users\mdladla\Source\Repos\CWA-Data-Assessment\CWA_Assessment\obj\Debug\CWA_Assessment.exe
 C:\Users\mdladla\Source\Repos\CWA-Data-Assessment\CWA_Assessment\obj\Debug\CWA_Assessment.pdb
-C:\Users\mdladla\Source\Repos\CWA-Data-Assessment\CWA_Assessment\obj\Debug\CWA_Assessment.csproj.AssemblyReference.cache
 C:\Users\mdladla\Source\Repos\CWA-Data-Assessment\CWA_Assessment\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\mdladla\Source\Repos\CWA-Data-Assessment\CWA_Assessment\bin\Debug\Npgsql.dll
 C:\Users\mdladla\Source\Repos\CWA-Data-Assessment\CWA_Assessment\bin\Debug\System.Buffers.dll

@@ -47,13 +47,14 @@ namespace CWA_Assessment
 
             string dataLoc = @"C:\Development\Accounting\Pastel 8\Accounting\Source\_Demo";
             string server = @"Server = """;
-            string selectQuery = @"SELECT * FROM C:\Development\Accounting\Pastel 8\Accounting\Source\_Demo\Documents\Labels\CustomerSupplier\Fields.pmd";
-            string pastelDataPath = @"C:\Users\mdladla\source\repos\CWA-Data-Assessment\PastelData\mike2009";
+            string selectQuery = @"SELECT * FROM Fields";
+            //string selectQuery = @"SELECT * FROM C:\Development\Accounting\Pastel 8\Accounting\Source\_Demo\Documents\Labels\CustomerSupplier\Fields.pmd";
+            string pastelDataPath = @"..\..\..\PastelData\mike2009";
             string trialBalanceQuery = " WHERE YEAR() BETWEEN YEAR(GETDATE()) - 1 AND GETDATE()";
 
             try
             {      
-                DataTable connection = PSQL32.sync_ImportSQL(pastelDataPath, server, selectQuery + trialBalanceQuery);
+                DataTable connection = PSQL32.sync_ImportSQL(pastelDataPath, server, selectQuery);
 
                 dataGridView.DataSource = connection;
 

@@ -37,14 +37,4 @@ namespace CWA_Assessment
         }
 
         }
-        /*public static void Import(){
-            //32 bit is used to create access to the  PervasiveImporter__32_bit_
-            PSQLImport32 PSQL32 = new PSQLImport32();
-            /**
-             * Within this variable you can access Patel data in to forms
-             * Quering a table or running a SQL qury against multiple tables
-             * example of doing the connection :
-             * PSQL32.sync_ImportSQL(Path to the Pastel data , Server this must stay as : 'Server = ""', Table name or SQL query)
-             
-        }*/
         }
